@@ -1,0 +1,2 @@
+# Clustering
+In this assignment you will work with one of the most popular (though not necessarily most efficient) tools for analyzing large amounts of data: k-means clustering. In k-means clustering, you organize the data into a small number (k) of clusters of similar values. For example, in the picture to the right, there are a lot of points in 3-dimensional space. These points are color-coded into five clusters, with all the points in a cluster being near to one another.
